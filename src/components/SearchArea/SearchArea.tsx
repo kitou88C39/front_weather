@@ -70,7 +70,7 @@ const SearchArea = () => {
         const { lat, lng } = response.results[0].geometry.location;
         setLatstate(lat);
         setLngstate(lng);
-
+        setCenter({ lat, lng });
         await axios
           .get(
             `https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lng}&lang=ja&appid=${APIKEY_GEOCODE}`
