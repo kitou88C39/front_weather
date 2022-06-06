@@ -1,9 +1,13 @@
 ### 使用技術
+
 React
+
 TypeScript
+
 Recharts
-aws Amplify
+
 Google Maps API (MapsJavaScriptAPI, GeocodingAPI)
+
 OpenWeather API
 
 ### 機能一覧
