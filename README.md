@@ -20,4 +20,6 @@ Maps JavaScript API でのマップにエリアの表示
 
 OpenWeather API での、検索した地域の天気情報取得・表示
 
-<img width="1166" alt="スクリーンショット 2022-06-04 19 20 47" src="https://user-images.githubusercontent.com/71999060/172121115-28bcaf6c-267f-425a-ac40-0eea2586368a.png">
+
+https://user-images.githubusercontent.com/71999060/172121856-e7179fa8-3073-43cf-b500-1a97bdea9781.mov
+
